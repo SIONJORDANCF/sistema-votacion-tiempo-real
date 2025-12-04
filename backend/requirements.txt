@@ -1,0 +1,20 @@
+# Django Core
+Django==5.0.1
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+
+# MySQL Database
+mysqlclient==2.2.4
+
+# WebSockets y Tiempo Real
+channels==4.0.0
+channels-redis==4.2.0
+daphne==4.1.0
+
+# Redis
+redis==5.0.1
+django-redis==5.4.0
+
+# Utilidades
+python-dotenv==1.0.1
+pytz==2024.1
